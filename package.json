@@ -1,0 +1,27 @@
+{
+  "name": "proyek",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/intan-collab/proyek.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/intan-collab/proyek/issues"
+  },
+  "homepage": "https://github.com/intan-collab/proyek#readme",
+  "dependencies": {
+    "@google/genai": "^2.27.0",
+    "dotenv": "^18.0.5",
+    "express": "^5.2.1",
+    "multer": "^2.4.0"
+  }
+}
